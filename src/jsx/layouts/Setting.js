@@ -298,11 +298,7 @@ const Setting = () => {
 						
 					</div>
 				</PerfectScrollbar>	
-				<div className="fs-12 pt-3">
-					<span className="text-danger">*Note :</span>
-					This theme switcher is not part of product. It is only for demo. you will get all guideline in documentation. please check 
-					<a href="https://workload.dexignlab.com/react/doc" target="_blank"  className="text-primary"> documentation.</a>
-				</div>
+				
 			</div>
 		</div>
 	</>
